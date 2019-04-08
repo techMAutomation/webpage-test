@@ -12,10 +12,10 @@ For MAC - add path in "~/.bash_profile" file
 Steps to run the project:
 -------------------------
 1. Download/Clone the project from GitHub
-2. Open the IntelliJ IDE and Import project as Maven project
+2. Open the IntelliJ IDE and Import the project as Maven project
 3. Open Command prompt or Terminal and navigate to the project folder then run the following command:
 mvn clean install -Dtags="@test"
-
+4. To view the test scenarios, navigate to the file: src/test/resources/test.feature
 
 Note: 
 -----
